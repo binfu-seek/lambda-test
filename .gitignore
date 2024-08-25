@@ -1,0 +1,56 @@
+﻿# .NET & Visual Studio
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Build & Publish artifacts
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.nuget/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.log
+project.lock.json
+project.fragment.lock.json
+
+# AWS Lambda Artifacts
+*.zip
+
+# User-specific files
+*.rsuser
+*.sln.ide
+*.suo
+
+# IDE configuration files
+.idea/
+.vscode/
+.env
+.env.local
+.env.*.local
+
+# Rider
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/vcs.xml
+.idea/.rider/
+.idea/modules.xml
+.idea/libraries/
+
+# Mac specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
