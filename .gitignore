@@ -4,7 +4,6 @@
 *.suo
 *.userosscache
 *.sln.docstates
-.vscode/
 
 # Build & Publish artifacts
 bin/
@@ -33,13 +32,11 @@ project.fragment.lock.json
 
 # IDE configuration files
 .idea/
-.vscode/
 .env
 .env.local
 .env.*.local
 
 # Rider
-.idea/
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/dictionaries
